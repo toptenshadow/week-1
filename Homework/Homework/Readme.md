@@ -6,7 +6,7 @@
 # Questions
 * Why we need "if-else" in function process?
 
-Answer:
+Answer:For 0! = 1 if not "if-else" = 0.
 
 
 # Resources
